@@ -80,9 +80,9 @@ model_info = {
         "subcategories": ["hindi", "english", "assamese","bengali","gujarati","kannada","malayalam","marathi","odia","punjabi","tamil","telegu"]
     },
     "10C": {
-        "path": "models/12_classes",
+        "path": "models/10_classes",
         "url" : "https://github.com/Bhashini-IITJ/ScriptIdentification/releases/download/Vit_Models/10_classes.zip",
-        "subcategories": ["hindi", "english", "assamese","bengali","gujarati","kannada","malayalam","marathi","odia","punjabi","tamil","telegu"]
+        "subcategories": ["hindi", "english","bengali","gujarati","kannada","malayalam","odia","punjabi","tamil","telegu"]
     },
     
 
