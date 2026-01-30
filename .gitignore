@@ -176,4 +176,10 @@ static/pics/IndicPhotoOCR.gif
 test_images/image_742.jpg
 
 
+# Project runtime data
+archive.db
+archive_images/
+
+# Streamlit
+.streamlit/
 
