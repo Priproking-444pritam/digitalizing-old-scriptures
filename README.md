@@ -17,10 +17,11 @@ This project performs:
 ---
 
 ## Installation
-```
+
 📥 Step-by-Step Installation Guide
 For Absolute Beginners (No Technical Knowledge)
-Step 1: Install Python
+### Step 1: Install Python
+```
 Go to python.org
 
 Download Python 3.10 (scroll down to find Python 3.10)
@@ -30,10 +31,10 @@ IMPORTANT: Check ✅ "Add Python to PATH" during installation
 Click "Install Now"
 
 Wait for installation to complete
+ ```
 
-https://via.placeholder.com/600x300.png?text=Check+Add+Python+to+PATH
-
-Step 2: Download the Project
+### Step 2: Download the Project
+```
 Go to the GitHub repository
 
 Click the green "Code" button
@@ -43,10 +44,9 @@ Select "Download ZIP"
 Extract the ZIP file to your Desktop
 
 Rename the folder to IndicPhotoOCR (if needed)
-
-https://via.placeholder.com/600x300.png?text=Click+Code+%3E+Download+ZIP
-
-Step 3: Open Command Prompt
+```
+### Step 3: Open Command Prompt
+```
 Windows:
 
 Press Windows Key + R
@@ -62,8 +62,9 @@ Press Command + Space
 Type terminal and press Enter
 
 Type: cd Desktop/IndicPhotoOCR and press Enter
-
-Step 4: Create Virtual Environment (Recommended)
+```
+### Step 4: Create Virtual Environment (Recommended)
+```
 Copy and paste this command:
 
 bash
@@ -78,8 +79,9 @@ Mac/Linux:
 bash
 source indicphotoocr_env/bin/activate
 You should see (indicphotoocr_env) at the beginning of your command line.
-
-Step 5: Install Required Packages
+```
+### Step 5: Install Required Packages
+```
 Copy and paste this command:
 
 bash
@@ -92,17 +94,15 @@ Copy and paste this command:
 bash
 streamlit run app_streamlit.py
 Your browser will automatically open with the app! 🎉
+```
 
-🎮 How to Use the App
+### 🎮 How to Use the App
 Main Screen
 When you open the app, you'll see two tabs:
 
 ✍️ Digitize Manuscript (for uploading new manuscripts)
 
 📚 Manuscript Archive (for browsing saved manuscripts)
-
-https://via.placeholder.com/800x400.png?text=App+Interface+Preview
-
 📤 Uploading a Manuscript
 Go to "Digitize Manuscript" tab
 
@@ -134,8 +134,6 @@ Green success message appears when done
 
 View extracted text - The Odia text appears below
 
-https://via.placeholder.com/600x300.png?text=Upload+Process+Demo
-
 📚 Browsing the Archive
 Go to "Manuscript Archive" tab
 
@@ -160,7 +158,7 @@ Each manuscript card shows:
 🔤 Extracted text
 
 📊 Word and character count
-## How to Use (Odia Only)
+
 
 ### Detection
 
