@@ -1,4 +1,4 @@
-# IndicPhotoOCR – Odia Scene Text Recognition
+# Digitalization of Old Odia Scriptures
 
 A lightweight implementation of IndicPhotoOCR focused on **Odia Scene Text Detection and Recognition**.
 
